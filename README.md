@@ -1,6 +1,7 @@
 # Hi there 👋. This is Aashish Bhandari
 
-### A keen learner and economics enthusiast. 
+### A keen learner and economics enthusiast who loves pythoning the way.
+
 
 <!--
 **awebisam/awebisam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
