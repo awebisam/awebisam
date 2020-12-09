@@ -2,6 +2,11 @@
 
 ### A keen learner and economics enthusiast who loves pythoning the way.
 
+- 🔭 I’m currently working on Python, JS, Django and Vue.
+- 🌱 I’m currently learning Data Science.
+- 👯 I’m looking to collaborate on [This Project](https://github.com/awebisam/ncellapp_django/)
+- 📫 How to reach me: [Facebook](https://facebook.com/awebisam)
+
 
 <!--
 **awebisam/awebisam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
