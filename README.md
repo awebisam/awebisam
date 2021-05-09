@@ -22,6 +22,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/css.png" />
 <img align="left" alt="tailwind" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/tailwind.png" />
 <img align="left" alt="js" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/js.png" />
+<img align="left" alt="js" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/ts.png" />
 <img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/vue.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/python.png" />
 <img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/django.png" />
