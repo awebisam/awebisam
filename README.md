@@ -25,4 +25,5 @@
 <img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/vue.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/python.png" />
 <img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/django.png" />
+<img align="left" alt="nest" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/Nest%20JS.png" />
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/git.png" />
