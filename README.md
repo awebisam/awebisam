@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Python, JS, Django and Vue.
 - 🌱 I’m currently learning Data Science.
-- 👯 I’m looking to collaborate on [This Project](https://github.com/awebisam/ncellapp_django/)
+- 👯 I’m looking to collaborate on [This Project](https://github.com/awebisam/ncellFastAPI/)
 
 
 ### Connect with me:
