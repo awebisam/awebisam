@@ -42,4 +42,5 @@
 <h1 align="center"> ❤ Views and Followers</h1>
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=awebisam"></a>
+<a href="https://github.com/awebisam?tab=followers"><img src="https://img.shields.io/github/followers/awebisam?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
