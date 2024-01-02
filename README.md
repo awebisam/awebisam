@@ -24,7 +24,7 @@
     <a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://nestjs.com/" target="_blank"> <img width="45px" src="https://th.bing.com/th/id/R.429bcad2082bda8936ab191778067390?rik=eHA6N41r1Ydr8w&pid=ImgRaw&r=0"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img width="48px" src="https://levunguyen.com/images/blog/typescript.png"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img width="48px" src="https://th.bing.com/th/id/R.45a2677424884e762b69f83d82daab60?rik=W6xZWIgmsjBCwg&pid=ImgRaw&r=0"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img width="48px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg"/> </a>
 </p>
 
 <br/>
