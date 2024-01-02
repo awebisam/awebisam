@@ -14,17 +14,12 @@
 <h1 align="center">🚀 Tools I am using Right Now</h1>
 
 <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.djangoproject.com/start/" target="_blank"> <img src="https://img.icons8.com/material-outlined/48/26e07f/django.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
-    <a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://nestjs.com/" target="_blank"> <img width="45px" src="https://th.bing.com/th/id/R.429bcad2082bda8936ab191778067390?rik=eHA6N41r1Ydr8w&pid=ImgRaw&r=0"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img width="48px" src="https://levunguyen.com/images/blog/typescript.png"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img width="48px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img width="48px" src="![image](https://github.com/awebisam/awebisam/assets/64518389/98f6505f-0590-4f4d-982a-52e3bdf6ac27)
+"/> </a>
+    
 </p>
 
 <br/>
