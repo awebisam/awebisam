@@ -17,8 +17,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img width="48px" src="https://levunguyen.com/images/blog/typescript.png"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img width="48px" src="![image](https://github.com/awebisam/awebisam/assets/64518389/98f6505f-0590-4f4d-982a-52e3bdf6ac27)
-"/> </a>
+    <a href="https://go.dev" target="_blank"> <img width="48px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"/> </a>
     
 </p>
 
