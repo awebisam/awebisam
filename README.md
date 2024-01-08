@@ -2,13 +2,7 @@
 
 <h1 align="center">Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is Aashish Bhandari</h1>
 
-<h3 align="center">A Keen Learner And Economics Enthusiast Who Loves Pythoning The Way.</h3>
-
-## 🙋‍♂️ About Me
-- 🔭 I’m currently working on Python, JS, Django and Vue.
-- 🌱 I’m currently learning Data Science.
-- 👯 I’m looking to collaborate on [This Project](https://github.com/awebisam/awebucks/)
-
+<h3 align="center">A Keen Learner And Economics Enthusiast.</h3>
 <br/>
 
 <h1 align="center">🚀 Tools I am using Right Now</h1>
